@@ -27,7 +27,7 @@
     </ul>
   <li>Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9} <p align="center"><img src="https://github.com/Dima19876/Makarukha_lab_TOTM_2020/blob/master/LAB3/10.jpg"></p> <p align="center"><img src="https://github.com/Dima19876/Makarukha_lab_TOTM_2020/blob/master/LAB3/11.jpg"></p> <p align="center">Дерево шляхів рангом r=4</p></li>
   <li>Побудувати мінімальне зв’язне дерево для графа G. Вказати його вагу 
-    <p align="center"><img src="https://github.com/Dima19876/Makarukha_lab_TOTM_2020/blob/master/LAB3/13.jpg"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB3/11.jpg"></p> <p align="center">Графічне представлення графа</p> <p align="center"> <img src="https://github.com/Dima19876/Makarukha_lab_TOTM_2020/blob/master/LAB3/14.jpg"> </p> <p align="center">Мінімальне зв’язне дерево графа з вагою 29</p>
+    <p align="center"><img src="https://github.com/Dima19876/Makarukha_lab_TOTM_2020/blob/master/LAB3/12.jpg"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB3/11.jpg"></p> <p align="center">Графічне представлення графа</p> <p align="center"> <img src="https://github.com/Dima19876/Makarukha_lab_TOTM_2020/blob/master/LAB3/14.jpg"> </p> <p align="center">Мінімальне зв’язне дерево графа з вагою 29</p>
   </li>
 </ol>
 <strong>Висновок:</strong>На даній лабораторній роботі я засвоїла способи побудови дерева шляхів і мінімального зв’язного дерева для різних графів.  В результаті виконання лабораторної роботи досягнуто мети, труднощів не виникло та вдалося виконати всі поставлені завдання.
